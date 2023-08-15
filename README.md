@@ -4,8 +4,8 @@
 
 Projeto de desenvolvimento do Portal Brasil
 
-## Instalação0000
-
+## Instalação
+## Atualização 2.2
 Clone este repositório
 
 ```bash
