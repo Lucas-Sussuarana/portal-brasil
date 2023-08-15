@@ -5,7 +5,7 @@
 Projeto de desenvolvimento do Portal Brasil
 
 ## Instalação
-## Atualização 2.2
+## Atualização 2.3
 Clone este repositório
 
 ```bash
