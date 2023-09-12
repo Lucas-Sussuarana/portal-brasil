@@ -5,7 +5,12 @@
 Projeto de desenvolvimento do Portal Brasil
 
 ## Instalação
-## Atualização 2.4
+## Atualização 2.6
+## Log de atualização
+## Refinamento de Menu
+## Alteração de estetica dos botoes
+## Alteração de cores em locais distintos como no Menu
+
 Clone este repositório
 
 ```bash
